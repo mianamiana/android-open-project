@@ -717,6 +717,13 @@ A 2d metaball loading
 Demo：[apk download](https://github.com/timqi/SectorProgressView/raw/master/art/SectorProgressView-V1.0-Example.apk) 
 效果图：![SectorProgressView](https://github.com/timqi/SectorProgressView/blob/master/art/sample.gif) 
 
+1. LiquidBallProgressBar    
+液态球体进度条,可自定义液体颜色、字体颜色、边框、maxProgress等  
+项目地址: https://github.com/mianamiana/LiquidBallProgressBar  
+效果图:  
+![Renderings](https://github.com/mianamiana/LiquidBallProgressBar/blob/master/LiquidBall.gif) 
+
+
 #### 八、TextView
 包括 TextView 及所有继承自 TextView 控件，如 EditText、Button、RadioButton  
 
